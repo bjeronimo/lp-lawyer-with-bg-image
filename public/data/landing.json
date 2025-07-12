@@ -1,0 +1,234 @@
+{
+  "hero": {
+    "badge": "Fale conosco no whatsapp e tire suas duvídas",
+    "heading": "ADVOCACIA ESPECIALIZADA EM AÇÕES CONTRA BANCOS",
+    "subHeading": " Trabalhamos com compromisso e excelência para defender você da melhor forma. Entre em contato e veja como podemos proteger seus interesses.",
+    "decorativeText": "Conheça mais sobre nossa advocacia",
+    "leftCta": {
+      "text": "Entre em contato",
+      "url": "https://api.whatsapp.com/send?phone=5583996365333&text=Ol%C3%A1%2C%20gostaria%20de%20solicitar%20atendimento"
+    },
+    "rightCta": {
+      "text": "Agende sua visita",
+      "url": "https://api.whatsapp.com/send?phone=5583996365333&text=Ol%C3%A1%2C%20gostaria%20de%20solicitar%20atendimento"
+    },
+    "bg": {
+      "url": "/images/bg-wallpaper.jpg",
+      "alt": ""
+    }
+  },
+  "about": {
+    "badge": "Advogado Especialista | Mais de 10 anos de Experiência",
+    "profile": {
+      "name": "Dr. Igor Felipe P. Santos",
+      "bio": "Formado pelo centro Universitário João Pesso - UNIPÊ (2010). Posui uma vasta experiência na ceara\n            trabalhista, contando com mais de 10 anos de atuação na referida área. Atende à todo Brasil e em todo território nacional.",
+      "image": {
+        "url": "/images/profile-photo.jpeg",
+        "alt": "foto de perfil do advogado trabalhista igor santos"
+      }
+    },
+    "cta": {
+      "text": "Converse Conosco",
+      "url": "/"
+    }
+  },
+  "differentials": {
+    "badge": "Diferenciais",
+    "heading": "Por que milhares de clientes confiam no nosso escritório todos os anos",
+    "items": [
+      {
+        "icon": "users-round",
+        "title": "Suporte 100% Humanizado",
+        "description": "Você é mais que um processo. Escutamos, orientamos e tratamos cada caso com respeito e atenção individualizada."
+      },
+      {
+        "icon": "computer",
+        "title": "Atendimento Online e Rápido",
+        "description": "Onde você estiver, podemos te atender. Do primeiro contato até o encerramento do caso, tudo com praticidade e segurança digital."
+      },
+      {
+        "icon": "file-search",
+        "title": "Transparência Total",
+        "description": "Você acompanha o andamento do seu processo e recebe explicações claras sobre prazos, valores e decisões"
+      }
+    ]
+  },
+  "faq": {
+    "badge": "Perguntas Frequentes",
+    "heading": "Principais questões relacionadas ao direito bancário",
+    "subHeading": "Descubra quais são as principais questões relacionadas ao direito bancário. Se surgir alguma dúvida, entre em contato conosco!",
+    "items": [
+      {
+        "heading": "Como saber se estou pagando juros abusivos?",
+        "description": " Juros abusivos geralmente ultrapassam os limites estabelecidos pelo Banco Central ou não estão claros no contrato. Podemos analisar seu contrato e extratos para identificar irregularidades."
+      },
+      {
+        "heading": "O que fazer se meu nome foi negativado injustamente?",
+        "description": "Você pode entrar com uma ação para remover a negativação e até receber indenização por danos morais. É importante reunir provas, como extratos, notificações e comprovantes de pagamento."
+      },
+      {
+        "heading": "Posso renegociar minha dívida bancária com ajuda de um advogado?",
+        "description": " Sim. Um advogado pode intermediar a negociação, buscar melhores condições e garantir que seus direitos sejam respeitados, evitando cláusulas abusivas."
+      },
+      {
+        "heading": "Sofri um golpe bancário (Pix, TED, cartão). O que posso fazer?",
+        "description": "Entre em contato imediatamente com o banco e registre um boletim de ocorrência. Também é possível buscar a reparação judicial, principalmente se houver falha de segurança da instituição financeira."
+      },
+      {
+        "heading": "Estou sendo processado em uma ação de busca e apreensão. E agora?",
+        "description": "É fundamental agir rápido. Um advogado pode analisar se houve falhas no contrato ou no processo judicial e, dependendo do caso, tentar reverter a apreensão ou renegociar a dívida."
+      },
+      {
+        "heading": "O que é superendividamento e como posso me proteger?",
+        "description": "Superendividamento ocorre quando você não consegue pagar suas dívidas básicas. Existe uma lei específica para proteger o consumidor nessa situação, e um advogado pode ajudá-lo a renegociar tudo judicialmente com condições mais humanas."
+      },
+      {
+        "heading": "Como funciona a consulta jurídica?",
+        "description": "A primeira análise é feita de forma personalizada, com base na documentação que você enviar. Após isso, explicamos os caminhos possíveis, prazos, custos e o que esperar de cada etapa."
+      },
+      {
+        "heading": "Quanto custa entrar com uma ação contra o banco?",
+        "description": "O valor depende da complexidade do caso. Em muitos casos, é possível parcelar os honorários ou optar por pagamento apenas em caso de sucesso (dependendo da viabilidade). Tudo é explicado com transparência antes de qualquer decisão."
+      },
+      {
+        "heading": "Em quanto tempo consigo resolver meu problema com o banco?",
+        "description": "Algumas soluções podem ser extrajudiciais e resolvidas em semanas. Outras, quando envolvem processo judicial, podem demorar meses. Sempre buscamos a solução mais rápida e eficiente para você."
+      },
+      {
+        "heading": "Atende clientes de todo o Brasil?",
+        "description": "Sim. O atendimento é 100% online, por isso conseguimos ajudar clientes em qualquer lugar do país, com a mesma dedicação e eficiência."
+      }
+    ]
+  },
+  "localization": {
+    "iframe": {
+      "src": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1979.5914546082415!2d-34.8467734!3d-7.1047894!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7acdd69381fc139%3A0xdde22672a2894953!2sR.%20Empresario%20Clovis%20Rolim%20-%20Lot.%20Oceania%20III%2C%20Jo%C3%A3o%20Pessoa%20-%20PB!5e0!3m2!1spt-BR!2sbr!4v1736177579196!5m2!1spt-BR!2sbr"
+    },
+    "address": "R. Empresario Clovis Rolim, 2051 - Bairro dos Ipês, João Pessoa - PB, 58033-454",
+    "contact": [
+      "(83) 3031-5861",
+      "(83) 9636-5333"
+    ],
+    "openingHours": "Segunda à Sexta, das 8:00 às 12:00 - 13:00 às 17:00",
+    "cta": {
+      "url": "/",
+      "text": "Converse Conosco"
+    }
+  },
+  "services": {
+    "badge": "Acessória Juridica",
+    "heading": "Sofrendo com juros abusivos, negativação indevida ou cobranças irregulares?",
+    "subHeading": "Nós ajudamos você a enfrentar bancos e instituições financeiras com segurança jurídica, estratégia e resultados reais.",
+    "cards": [
+      {
+        "image": {
+          "url": "/images/card-01.jpg",
+          "alt": ""
+        },
+        "heading": "Revisão de Juros Abusivos",
+        "description": "Você pode estar pagando mais do que deveria. Revisamos contratos de financiamento, empréstimos e cartões de crédito."
+      },
+      {
+        "image": {
+          "url": "/images/card-02.jpg",
+          "alt": ""
+        },
+        "heading": "Cobranças Indevidas e Negativação Irregular",
+        "description": "Limpe seu nome de forma rápida e segura. Atuamos contra SPC, Serasa, protestos e cobranças não autorizadas."
+      },
+      {
+        "image": {
+          "url": "/images/card-03.jpg",
+          "alt": ""
+        },
+        "heading": "Defesa em Ações de Busca e Apreensão",
+        "description": "Proteja seu veículo e seus bens. Atuamos em ações de busca e apreensão de forma estratégica."
+      },
+      {
+        "image": {
+          "url": "/images/card-04.jpg",
+          "alt": ""
+        },
+        "heading": "Superendividamento e Renegociação de Dívidas",
+        "description": "Negociamos com bancos para reduzir dívidas e preservar seu patrimônio."
+      },
+      {
+        "image": {
+          "url": "/images/card-05.jpg",
+          "alt": ""
+        },
+        "heading": "Golpes e Fraudes Bancárias",
+        "description": "Caiu em golpe ou teve prejuízo por falha do banco? Você pode ser indenizado."
+      },
+      {
+        "image": {
+          "url": "/images/card-06.jpg",
+          "alt": ""
+        },
+        "heading": "Reparação por Golpes em Contas Digitais (Pix, TED, etc.)",
+        "description": "Quando há falha na segurança do banco, o consumidor tem direito a ser ressarcido."
+      },
+      {
+        "image": {
+          "url": "/images/card-07.jpg",
+          "alt": ""
+        },
+        "heading": "Encerramento de Conta com Pendência Indevida",
+        "description": "Ação para regularizar situações em que o banco se nega a encerrar a conta sem justificativa válida."
+      },
+      {
+        "image": {
+          "url": "/images/card-08.jpg",
+          "alt": ""
+        },
+        "heading": "Contestação de Débito Automático Indevido",
+        "description": "Entramos com ações para cancelar e reaver valores de débitos não autorizados."
+      },
+      {
+        "image": {
+          "url": "/images/card-09.jpg",
+          "alt": ""
+        },
+        "heading": "Defesa contra Cartão de Crédito Não Solicitado",
+        "description": "Ajuizamos ações por envio de cartão não solicitado e cobranças indevidas associadas."
+      }
+    ]
+  },
+  "testimonials": {
+    "badge": "",
+    "heading": "",
+    "subHeading": "",
+    "cards": [
+      {
+        "quote": "Escritório diligente. Ótimo atendimento, equipe competente e ambiente confortável.",
+        "author": "Silvia Queiroga",
+        "location": "",
+        "avatar": {
+          "url": "/images/woman-avatar-03.svg",
+          "alt": ""
+        }
+      },
+      {
+        "quote": "Profissionais comprometidos em buscar os direitos dos trabalhadores!",
+        "author": "Aurea R. G. Silva",
+        "location": "",
+        "avatar": {
+          "url": "/images/woman-avatar-01.svg",
+          "alt": ""
+        }
+      },
+      {
+        "quote": "Equipe ótima, com um atendimento excelente! Recomendo o escritório a todos que tenha um problema trabalhista e tenha interesse em solucionar seu caso!",
+        "author": "Maria J. Carvalho",
+        "location": "",
+        "avatar": {
+          "url": "/images/woman-avatar-02.svg",
+          "alt": ""
+        }
+      }
+    ]
+  },
+  "whatsappButton": {
+    "url": "https://api.whatsapp.com/send?phone=5583996365333&text=Ol%C3%A1%2C%20gostaria%20de%20solicitar%20atendimento"
+  }
+}
